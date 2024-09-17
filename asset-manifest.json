@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/.multi-tools-public/static/css/main.813674d8.css",
-    "main.js": "/.multi-tools-public/static/js/main.0436275a.js",
+    "main.js": "/.multi-tools-public/static/js/main.af8b6876.js",
     "static/js/453.4e9c1ddc.chunk.js": "/.multi-tools-public/static/js/453.4e9c1ddc.chunk.js",
     "static/media/pfp1.svg": "/.multi-tools-public/static/media/pfp1.d8d64987a4f66bd1a45f2891c2e05038.svg",
     "static/media/unionPay-logo.svg": "/.multi-tools-public/static/media/unionPay-logo.75528fce87bfb42ad5727133bdaa2235.svg",
     "index.html": "/.multi-tools-public/index.html",
     "main.813674d8.css.map": "/.multi-tools-public/static/css/main.813674d8.css.map",
-    "main.0436275a.js.map": "/.multi-tools-public/static/js/main.0436275a.js.map",
+    "main.af8b6876.js.map": "/.multi-tools-public/static/js/main.af8b6876.js.map",
     "453.4e9c1ddc.chunk.js.map": "/.multi-tools-public/static/js/453.4e9c1ddc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.813674d8.css",
-    "static/js/main.0436275a.js"
+    "static/js/main.af8b6876.js"
   ]
 }
