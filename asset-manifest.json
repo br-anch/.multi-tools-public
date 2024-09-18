@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/.multi-tools-public/static/css/main.67445ae1.css",
-    "main.js": "/.multi-tools-public/static/js/main.09105693.js",
-    "static/js/453.4e9c1ddc.chunk.js": "/.multi-tools-public/static/js/453.4e9c1ddc.chunk.js",
+    "main.css": "/.multi-tools-public/static/css/main.e08c47f4.css",
+    "main.js": "/.multi-tools-public/static/js/main.db98abbb.js",
     "static/media/pfp1_square_transparent_bg.svg": "/.multi-tools-public/static/media/pfp1_square_transparent_bg.6cb1a21a2dedb107f52029f9db69f627.svg",
     "static/media/unionPay-logo.svg": "/.multi-tools-public/static/media/unionPay-logo.75528fce87bfb42ad5727133bdaa2235.svg",
     "index.html": "/.multi-tools-public/index.html",
-    "main.67445ae1.css.map": "/.multi-tools-public/static/css/main.67445ae1.css.map",
-    "main.09105693.js.map": "/.multi-tools-public/static/js/main.09105693.js.map",
-    "453.4e9c1ddc.chunk.js.map": "/.multi-tools-public/static/js/453.4e9c1ddc.chunk.js.map"
+    "main.e08c47f4.css.map": "/.multi-tools-public/static/css/main.e08c47f4.css.map",
+    "main.db98abbb.js.map": "/.multi-tools-public/static/js/main.db98abbb.js.map"
   },
   "entrypoints": [
-    "static/css/main.67445ae1.css",
-    "static/js/main.09105693.js"
+    "static/css/main.e08c47f4.css",
+    "static/js/main.db98abbb.js"
   ]
 }
